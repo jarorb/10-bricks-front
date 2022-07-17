@@ -1,0 +1,28 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-items: center;
+}
+.Header-checkout {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  justify-items: center;
+  width: 30px;
+  margin: 0 0 0 0.5em;
+}
+.Header-alert {
+  color: #ff5a60;
+  font-size: 14px;
+  margin-left: 5px;
+}
+.Header a {
+  text-decoration: none;
+  color: #ff5a60;
+}
+
+.Header h4 {
+  text-decoration: none;
+  color: #ff5a60;
+}
